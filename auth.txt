@@ -1,0 +1,15 @@
+{
+    "companyName": "seshadri Rao Gudlavalleru Engineering College",
+    "ownerName": "Bhimireddy Lalitha",
+    "rollNo": "21481A0528",
+    "ownerEmail": "bhimireddyblnreddy@gmail.com",
+    "accessCode": "XmPwdN"
+}
+{
+    "companyName": "seshadri Rao Gudlavalleru Engineering College",
+    "clientID": "435151a3-da34-4f91-b651-89a00a8e3706",
+    "clientSecret": "eFQfCaSfYEPPMeAG",
+    "ownerName": "Bhimireddy Lalitha",
+    "ownerEmail": "bhimireddyblnreddy@gmail.com",
+    "rollNo": "21481A0528"
+}
